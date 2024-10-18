@@ -5,7 +5,7 @@
                 "properties": {
                     "company": {
                         "type": "string"
-                    }
+                    },
                     "email": {
                         "type": "string"
                     },
